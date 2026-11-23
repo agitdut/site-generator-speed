@@ -1,8 +1,8 @@
 # site-generator-speed-01 — a faster makefun-site 1.0.0
 
-[![Bounty](https://img.shields.io/badge/bounty-site--generator--speed--01-blue)](https://make.fun/bounty/site-generator-speed-01-run-20261122)
-[![Reward](https://img.shields.io/badge/reward-%24100-green)](https://make.fun/bounty/site-generator-speed-01-run-20261122)
-[![Rank](https://img.shields.io/badge/rank-unranked-lightgrey)](https://make.fun/bounty/site-generator-speed-01-run-20261122)
+[![make.fun · site-generator-speed-01-run-20261122](https://make.fun/badge/site-generator-speed-01-run-20261122.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122)
+[![rank](https://make.fun/badge/site-generator-speed-01-run-20261122/agitdut/site-generator-speed/rank.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122)
+[![reward](https://make.fun/badge/site-generator-speed-01-run-20261122/agitdut/site-generator-speed/reward.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122)
 
 A dependency-free, drop-in replacement for `makefun-site` 1.0.0 whose
 `run(input)` returns the **same answer, byte for byte**, for every input —
